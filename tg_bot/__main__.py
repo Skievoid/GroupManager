@@ -22,11 +22,9 @@ hoi {}, my name is {}! if you have any questions about how to use me please give
 
 I'm a group manager bot maintained by  [Saprativ](tg://user?id=1197823905).
 
-My future updates will be put into skievoid.xyz
+My future updates will be put into skievoid.xyz . This bot is a part of Skievoid Projects.
 
-For more commands click /help...
-
-**Keep in mind that any changes you DO do to the source have to be on github, as per the license.**
+For more commands click /help. 
 
 """
 
