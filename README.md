@@ -2,7 +2,7 @@ This is a cloned repo of [Marie-2.0-English](https://github.com/TGExplore/Marie-
 
 We have fixed the bugs in the repo.
 
-[Deploy to heroku](https://heroku.com/deploy?template=https://github.com/Skievoid/skievoidmanagerbot.git)
+[Deploy to heroku](https://heroku.com/deploy?templete=https://github.com/Skievoid/GroupManager.git)
 
 Visit our official website at [skievoid.xyz](http://skievoid.xyz/)
 
