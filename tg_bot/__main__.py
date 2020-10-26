@@ -20,9 +20,9 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 hoi {}, my name is {}! if you have any questions about how to use me please give me /help... 
 
-I'm a group manager bot designed for helping you to manage your group in your fingertips . My Owner is [this person](http://t.me/kiingkid)
+I'm a group manager bot designed for helping you to manage your group in your fingertips .
 
-This bot is a part of [Skievoid Projects](http;//skievoid.xyz)
+This bot is a part of [Skievoid Projects](http://skievoid.xyz)
 
 Click /help to learn how to use me. 
 
