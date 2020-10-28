@@ -20,7 +20,7 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 hoi {}, my name is {}! if you have any questions about how to use me please give me /help... 
 
-I'm a group manager bot designed for helping you to manage your group in your fingertips .
+I'm a group manager bot designed for helping you to manage your group in your fingertips . My Owner is @Kiingkid
 
 This bot is a part of [Skievoid Projects](http://skievoid.xyz)
 
