@@ -18,11 +18,9 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-hoi {}, my name is {}! if you have any questions about how to use me please give me /help... 
-
-I'm a group manager bot designed for helping you to manage your group in your fingertips . My Owner is @Kiingkid
-
-This bot is a part of [Skievoid Projects](http://skievoid.xyz)
+Hi {}, my name is {}! if you have any questions about how to use me please give me /help... 
+I'm a group manager bot designed for helping you to manage your group in your fingertips . 
+I have been designed with love by [this person](http://t.me/Tushar2345)
 
 Click /help to learn how to use me. 
 
