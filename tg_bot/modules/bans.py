@@ -440,7 +440,7 @@ def runban(bot: Bot, update: Update, args: List[str]):
 
 
 __help__ = """
- - /kickme: kicks the user who issued the command
+ - /kickme:kicks the user who issued the command
 
 *Admin only:*
  - /ban <userhandle>: bans a user. (via handle, or reply)
